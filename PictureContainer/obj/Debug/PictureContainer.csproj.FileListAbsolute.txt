@@ -1,0 +1,10 @@
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\bin\Debug\PictureContainer.dll
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\bin\Debug\PictureContainer.pdb
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\PictureContainer.UserControl1.resources
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\PictureContainer.dll
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\PictureContainer.pdb
+c:\users\wokas\documents\visual studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\PictureContainer.ExportForm.resources
+C:\Users\wokas\Documents\Visual Studio 2010\Projects\PictureContainer\PictureContainer\obj\Debug\PictureContainer.OverwriteForm.resources
